@@ -14,7 +14,7 @@ web desenvolvimento com html,css e javascript.
 *Cursando ODIN-PROJECT*
 
 
-- **Coisas Importantes:**
+### Coisas Importantes:
 
-    - **Sou uma pessoa transsexual**
-    - **Também sou neurodivergente**
+    * Sou uma pessoa transsexual
+    * Também sou neurodivergente
