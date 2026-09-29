@@ -15,5 +15,7 @@ web desenvolvimento com html,css e javascript.
 
 
 - **Coisas Importantes:**
+
     - **Sou uma pessoa transsexual**
+    - 
     - **Também sou neurodivergente**
