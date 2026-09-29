@@ -7,7 +7,8 @@ Atualmente busco me fundamentar no mundo da programação, já possuo domínio e
 com Dart e Ruby :)
 
 
-As principais áreas que busco me especializar são Ruby, Typescript e Python. Amo o mundo do Front tanto quanto do Back, já entrei no mundo de Databases com Mysql e no mundo do
+As principais áreas que busco me especializar são Ruby, Typescript e Python. Amo o mundo do Front tanto quanto do Back, 
+já entrei no mundo de Databases com Mysql e no mundo do
 web desenvolvimento com html,css e javascript.
 
 
